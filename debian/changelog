@@ -1,3 +1,9 @@
+golang-github-fgrosse-graphigo (2-2) buster; urgency=medium
+
+  * Build for Debian Buster
+
+ -- Sven Eckelmann <sven@narfation.org>  Sun, 07 Jul 2019 10:56:30 +0200
+
 golang-github-fgrosse-graphigo (2-1) stretch; urgency=medium
 
   * Initial release
